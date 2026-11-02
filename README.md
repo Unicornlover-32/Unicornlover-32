@@ -48,18 +48,18 @@
 
 <p align="center">
   <a href="https://github.com/Unicornlover-32/EatEatEat">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Unicornlover-32&repo=EatEatEat&theme=radical&hide_border=true" alt="EatEatEat"/>
+    <img src="./profile/pin-EatEatEat.svg" alt="EatEatEat"/>
   </a>
   <a href="https://github.com/Unicornlover-32/Smart-City">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Unicornlover-32&repo=Smart-City&theme=radical&hide_border=true" alt="Smart-City"/>
+    <img src="./profile/pin-Smart-City.svg" alt="Smart-City"/>
   </a>
 </p>
 <p align="center">
   <a href="https://github.com/Unicornlover-32/DSA-Project">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Unicornlover-32&repo=DSA-Project&theme=radical&hide_border=true" alt="DSA-Project"/>
+    <img src="./profile/pin-DSA-Project.svg" alt="DSA-Project"/>
   </a>
   <a href="https://github.com/Unicornlover-32/Advanced_Prog_Labs">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Unicornlover-32&repo=Advanced_Prog_Labs&theme=radical&hide_border=true" alt="Advanced_Prog_Labs"/>
+    <img src="./profile/pin-Advanced_Prog_Labs.svg" alt="Advanced_Prog_Labs"/>
   </a>
 </p>
 
@@ -76,16 +76,15 @@
 ### 📊 GitHub stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Unicornlover-32&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub stats"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Unicornlover-32&layout=compact&theme=radical&hide_border=true&langs_count=6" alt="Top languages"/>
+  <img height="170" src="./profile/stats.svg" alt="GitHub stats"/>
+  <img height="170" src="./profile/top-langs.svg" alt="Top languages"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Unicornlover-32&theme=radical&hide_border=true" alt="GitHub streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Unicornlover-32&theme=radical&hide_border=true&area=true" alt="Contribution graph"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Unicornlover-32/Unicornlover-32/output/github-snake-dark.svg"/>
+    <img src="https://raw.githubusercontent.com/Unicornlover-32/Unicornlover-32/output/github-snake.svg" alt="Contribution snake animation"/>
+  </picture>
 </p>
 
 ---
