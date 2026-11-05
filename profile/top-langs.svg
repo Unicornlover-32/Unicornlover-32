@@ -1,8 +1,8 @@
 
       <svg
         width="300"
-        height="115"
-        viewBox="0 0 300 115"
+        height="140"
+        viewBox="0 0 300 140"
         fill="none"
         xmlns="http://www.w3.org/2000/svg"
         role="img"
@@ -138,7 +138,17 @@
           data-testid="lang-progress"
           x="0"
           y="0"
-          width="217.61"
+          width="195.53"
+          height="8"
+          fill="#555555"
+        />
+      
+        <rect
+          mask="url(#rect-mask)"
+          data-testid="lang-progress"
+          x="195.53"
+          y="0"
+          width="47.41"
           height="8"
           fill="#b07219"
         />
@@ -146,9 +156,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="217.61"
+          x="242.94"
           y="0"
-          width="32.39"
+          width="17.06"
           height="8"
           fill="#f34b7d"
         />
@@ -157,16 +167,23 @@
     <g transform="translate(0, 25)">
       <g transform="translate(0, 0)"><g transform="translate(0, 0)">
     <g class="stagger" style="animation-delay: 450ms">
+      <circle cx="5" cy="6" r="5" fill="#555555" />
+      <text data-testid="lang-name" x="15" y="10" class='lang-name'>
+        C 78.21%
+      </text>
+    </g>
+  </g><g transform="translate(0, 25)">
+    <g class="stagger" style="animation-delay: 600ms">
       <circle cx="5" cy="6" r="5" fill="#b07219" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Java 87.05%
+        Java 18.96%
       </text>
     </g>
   </g></g><g transform="translate(150, 0)"><g transform="translate(0, 0)">
     <g class="stagger" style="animation-delay: 450ms">
       <circle cx="5" cy="6" r="5" fill="#f34b7d" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        C++ 12.95%
+        C++ 2.82%
       </text>
     </g>
   </g></g>
